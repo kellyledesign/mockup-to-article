@@ -6,6 +6,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-It wasn’t too difficult (yet!) since I am already familiar with basic syntax, but I’ve learned new tags such as “figures”, “sup”, and “hr”. I also got to practice more well-formatted coding.
+It wasn’t too difficult (yet!) since I am already familiar with basic syntax, but I’ve learned new elements such as “figures”, “sup”, and “hr”. I also got to practice more well-formatted coding.
 
 I had trouble with the website accepting my code for the button, and I’m not really sure what went wrong there since I tried multiple answers and it didn’t seem like anyone else had that problem. I knew the code worked (made it in codepen) so I just went ahead to the next step.
